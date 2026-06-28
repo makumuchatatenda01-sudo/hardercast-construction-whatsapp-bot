@@ -1,0 +1,13 @@
+{
+  "id": "6a3ec99f9817d4546b9b5f7d",
+  "url": "https://hardercast.visionpixels.autos/webhooks/hardercast-construction",
+  "description": "Hardercast Construction temporary WhatsApp bot webhook",
+  "enabledEvents": [
+    "whatsapp.inbound_message.received",
+    "whatsapp.message.updated"
+  ],
+  "status": "active",
+  "secret": "whsec_b56d98d61c894357a80abd0236a5db35",
+  "createTime": "2026-06-26T18:49:03.319Z",
+  "updateTime": "2026-06-26T18:49:03.319Z"
+}

@@ -1,0 +1,35 @@
+# dependencies
+node_modules/
+
+# env / secrets
+.env
+.env.*
+*.key
+*.pem
+*.crt
+
+# WhatsApp sessions/cache
+.wwebjs_auth/
+.wwebjs_cache/
+
+# logs
+logs/
+*.log
+pm2.log
+
+# backups / archives
+backups/
+*.tar.gz
+*.zip
+
+# media / temp
+tmp/
+temp/
+uploads/
+public/uploads/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

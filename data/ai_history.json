@@ -1,0 +1,86 @@
+{
+  "971544835406": [
+    {
+      "role": "customer",
+      "content": "So WhatsApp bro",
+      "time": "2026-06-26T13:28:51.542Z"
+    },
+    {
+      "role": "assistant",
+      "content": "⚙️ Hi there, welcome to Hardercast Construction on WhatsApp! 👷‍♂️\n\n- I'm here to help with info about our construction, renovation and infrastructure services.\n- How can I assist you today? Do you have a project in mind?",
+      "time": "2026-06-26T13:28:51.542Z"
+    },
+    {
+      "role": "customer",
+      "content": "Eyy bro i need help wat is construction",
+      "time": "2026-06-26T13:29:24.813Z"
+    },
+    {
+      "role": "assistant",
+      "content": "⚙️ Hey bro, no worries! I can help explain.\n\n- Construction basically means building or putting things together.\n- For Hardercast Construction, it covers homes, offices, roads, boreholes, roofs, plumbing, solar — anything from the ground up to the finishes inside.\n- We handle residential, commercial and industrial projects.\n\nDo you have a specific type of construction you're interested in?",
+      "time": "2026-06-26T13:29:24.814Z"
+    },
+    {
+      "role": "customer",
+      "content": "Because inini ndiriBroke asi i want to build a house",
+      "time": "2026-06-26T13:30:12.820Z"
+    },
+    {
+      "role": "assistant",
+      "content": "⚙️ Hey bro, ndinonzwisisa kuti zvinonetsa, asi unogona kutanga nekutaura navo kuti vaone mazano. 🏗️\n\n- Hardercast Construction inobatsira nekuvaka dzimba, kubva pasi kusvika pamusoro.\n- Unogona kutaura nechikwata kuti vakupa mazano uye fungidziro yemari—zviri pachena, hapana chibvumirano.\n\nDo you want me to guide you on the type of house build or check what kind of design you have in mind?",
+      "time": "2026-06-26T13:30:12.820Z"
+    },
+    {
+      "role": "customer",
+      "content": "I have a budget of 100usd",
+      "time": "2026-06-26T13:30:56.931Z"
+    },
+    {
+      "role": "assistant",
+      "content": "⚙️ Ah, ndinonzwisisa—asi hapana kana chinoitwa nemari shoma. 🤝\n\n- Unfortunately, I can't discuss pricing or budgets here—that's something the team handles directly.\n- The best step is to speak to Hardercast so they can give you an accurate idea based on your project.\n\nDo you want me to show you how to get in touch with them? You can type menu and choose \"Talk to Advisor.\"",
+      "time": "2026-06-26T13:30:56.931Z"
+    }
+  ],
+  "263788863880": [
+    {
+      "role": "customer",
+      "content": "prices",
+      "time": "2026-06-27T07:22:30.517Z"
+    },
+    {
+      "role": "assistant",
+      "content": "⚙️\n- I don't have price information in the knowledge base available to me.\n- For accurate pricing, the Hardercast team should confirm directly.\n- Type **menu** and choose the relevant department, or visit the website contact page to reach them.",
+      "time": "2026-06-27T07:22:30.518Z"
+    },
+    {
+      "role": "customer",
+      "content": "admin contact",
+      "time": "2026-06-27T07:22:48.493Z"
+    },
+    {
+      "role": "assistant",
+      "content": "⚙️\n- The official contact for Hardercast Construction is:\n  - 📍 Borrowdale, Harare, Zimbabwe\n  - 📞 +263 784 620 156\n  - 📧 info@hardercastconstruction.co.zw\n  - 🌐 https://hardercastconstruction.co.zw/contact/\n- The team can assist with admin enquiries through those channels.",
+      "time": "2026-06-27T07:22:48.493Z"
+    },
+    {
+      "role": "customer",
+      "content": "escalate to admin",
+      "time": "2026-06-27T07:23:15.307Z"
+    },
+    {
+      "role": "assistant",
+      "content": "⚙️\n- I can't directly escalate from here, but you can reach the Hardercast team through the official contact details.\n  - 📍 Borrowdale, Harare, Zimbabwe\n  - 📞 +263 784 620 156\n  - 📧 info@hardercastconstruction.co.zw\n  - 🌐 https://hardercastconstruction.co.zw/contact/\n- Alternatively, type **menu** to choose a department and the team will assist you further.",
+      "time": "2026-06-27T07:23:15.307Z"
+    },
+    {
+      "role": "customer",
+      "content": "restart flow",
+      "time": "2026-06-27T07:23:51.247Z"
+    },
+    {
+      "role": "assistant",
+      "content": "⚙️\n- Understood! You can restart by typing **menu**.\n- This will take you back to the main options so you can choose the right department for your enquiry.\n- Let me know how else I can help.",
+      "time": "2026-06-27T07:23:51.248Z"
+    }
+  ]
+}
